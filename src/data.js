@@ -1,66 +1,118 @@
-export const popular =[
+export const populars =[
     {img:"/images/m2.jpg",
         name:"The Garfield Movie",
     description:"2024-04-30",
     heading:"Rating:6.627"
  },
+ {img:"/images/m8.jpg",
+ name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m9.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m10.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m12.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m13.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m14.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m15.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m16.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m17.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m19.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m20.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m18.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m17.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m16.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m15.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m14.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m13.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m11.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
+{img:"/images/m12.jpg",
+name:"The Garfield Movie",
+description:"2024-04-30",
+heading:"Rating:6.627"
+},
 
 ]
 export const sliders=[
     {
         img:"/images/m2.jpg",
-        heading:"First Slide label",
+        
     },
     {
         img:"/images/m3.jpg",
-        heading:"Second Slide label",
+        
     },
     {
         img:"/images/m4.jpg",
-        heading:"First Slide label",
+       
     },
-    // {
-    //     img:"/images/m5.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m6.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m7.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m8.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m9.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m10.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m11.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m12.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m13.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m14.jpg",
-    //     heading:"First Slide label",
-    // },
-    // {
-    //     img:"/images/m15.jpg",
-    //     heading:"First Slide label",
-    // },
+   
 ]
