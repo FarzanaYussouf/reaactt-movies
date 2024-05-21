@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <>
 
-            <div className="container-fluid">
+            <div className="container-fluid ">
                 <div id="carouselExampleIndicators" class="carousel slide">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -52,9 +52,11 @@ const Home = () => {
                       <div className="col-lg-3 col-md-3 col-sm-6 col-6 ">
                         <img className="mt-4" src={popular.img}class="d-block w-360" style={{ height: "360px" }}  alt="" />
                         <h3 className="mt-4">{popular.name}</h3>
+                        <div className="row">
+                            < div className="col-6">
                         <p>{popular.description} <br />{popular.heading}</p>
-                        
-
+                        </div>
+                        </div>
                       </div>
                       </>  
                     )
